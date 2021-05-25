@@ -1,0 +1,215 @@
+#EXTM3U
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO 1
+http://dragon.megatube.us:2082/1111122222/wr658gf449/945?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="https://over.npo.nl/images/zenders/npo-1.png" group-title="Undefined",NPO 1
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo1/npo1.isml/.m3u8&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Nederland",NPO 1 Extra HD
+http://iptvtree.net:8080/vpngenerators/635ee5a5e7/37541?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO 1 Extra HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/37541?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO 1 FHD
+http://a1yan.worldhell.club:8880/ZYXLM5999/66156361/31524?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO 1 FHD
+http://iptvtree.net:8080/vpngenerators/635ee5a5e7/2481?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Nederland",NPO 1 FHD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2481?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO 1 HD
+http://a1yan.worldhell.club:8880/ZYXLM5999/66156361/31488?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO 1 HD
+http://gooserace.xyz:2052/donna/donna123/2475756?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO 1 HD
+http://dimapro.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/18505?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO 1 HD
+http://dimapro.cz:8080/d4:cf:f9:0b:fd:73/ziajdjjfdifjd64646/18505?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO 1 HD
+http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/18505?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO 101
+http://iptvtree.net:8080/vpngenerators/635ee5a5e7/52470?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Nederland",NPO 101 ZAPP EXTRA
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/52470?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO 2
+http://dragon.megatube.us:2082/1111122222/wr658gf449/944?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO 2
+http://a1yan.worldhell.club:8880/ZYXLM5999/66156361/31489?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="https://over.npo.nl/images/zenders/npo-2.png" group-title="Undefined",NPO 2
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo2/npo2.isml/.m3u8&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Nederland",NPO 2 Extra
+http://iptvtree.net:8080/vpngenerators/635ee5a5e7/65701?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO 2 Extra
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/65701?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO 2 FHD
+http://a1yan.worldhell.club:8880/ZYXLM5999/66156361/31525?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Nederland",NPO 2 FHD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/852?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO 2 FHD
+http://iptvtree.net:8080/vpngenerators/635ee5a5e7/852?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO 2 HD
+http://a1yan.worldhell.club:8880/ZYXLM5999/66156361/31392?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO 2 HD
+http://dimapro.cz:8080/d4:cf:f9:0b:fd:73/ziajdjjfdifjd64646/18504?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO 2 HD
+http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/18504?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO 2 HD
+http://dimapro.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/18504?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="https://over.npo.nl/images/zenders/npo-3.png" group-title="Undefined",NPO 3
+http://resolver.streaming.api.nos.nl/livestream?url=/live/npo/tvlive/npo3/npo3.isml/.m3u8&checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO 3 Extra
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/197499?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Nederland",NPO 3 Extra
+http://iptvtree.net:8080/vpngenerators/635ee5a5e7/197499?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO 3 FHD
+http://iptvtree.net:8080/vpngenerators/635ee5a5e7/853?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO 3 FHD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/853?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO 3 FHD 1080
+http://a1yan.worldhell.club:8880/ZYXLM5999/66156361/31526?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO 3 HD
+http://dimapro.cz:8080/d4:cf:f9:0b:fd:73/ziajdjjfdifjd64646/18503?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Nederland",NPO 3 HD
+http://dimapro.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/18503?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NPO 3 HD
+http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/18503?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DE" tvg-logo="" group-title="Undefined",SUPER RTL 4K
+http://wagmaott.com:8080/87742946/65356456/7238?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL 4 FHD
+http://iptvtree.net:8080/vpngenerators/635ee5a5e7/2488?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL 4 FHD
+http://a1yan.worldhell.club:8880/ZYXLM5999/66156361/31382?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Nederland",RTL 4 FHD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2488?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL 4 HD
+http://a1yan.worldhell.club:8880/ZYXLM5999/66156361/31491?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL 4 HD
+http://dimapro.cz:8080/d4:cf:f9:0b:fd:73/ziajdjjfdifjd64646/18494?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL 4 HD
+http://dimapro.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/18494?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL 4 HD
+http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/18494?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL 5
+http://a1yan.worldhell.club:8880/ZYXLM5999/66156361/31492?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL 5
+http://dragon.megatube.us:2082/1111122222/wr658gf449/941?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL 5 FHD
+http://iptvtree.net:8080/vpngenerators/635ee5a5e7/2489?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Nederland",RTL 5 FHD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2489?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL 5 HD
+http://a1yan.worldhell.club:8880/ZYXLM5999/66156361/31381?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL 5 HD
+http://gooserace.xyz:2052/donna/donna123/2475731?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL 5 HD
+http://dimapro.cz:8080/d4:cf:f9:0b:fd:73/ziajdjjfdifjd64646/18493?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL 5 HD
+http://dimapro.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/18493?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL 5 HD
+http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/18493?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL 7
+http://dragon.megatube.us:2082/1111122222/wr658gf449/940?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL 7
+http://a1yan.worldhell.club:8880/ZYXLM5999/66156361/31493?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL 7 FHD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2490?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL 7 FHD
+http://iptvtree.net:8080/vpngenerators/635ee5a5e7/2490?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL 7 HD
+http://a1yan.worldhell.club:8880/ZYXLM5999/66156361/31380?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL 7 HD
+http://dimapro.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/18492?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL 7 HD
+http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/18492?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Nederland",RTL 7 HD
+http://dimapro.cz:8080/d4:cf:f9:0b:fd:73/ziajdjjfdifjd64646/18492?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL 8
+http://a1yan.worldhell.club:8880/ZYXLM5999/66156361/31494?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL 8 FHD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2491?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Nederland",RTL 8 FHD
+http://iptvtree.net:8080/vpngenerators/635ee5a5e7/2491?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL 8 HD
+http://dimapro.cz:8080/d4:cf:f9:0b:fd:73/ziajdjjfdifjd64646/18491?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL 8 HD
+http://dimapro.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/18491?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",RTL 8 HD
+http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/18491?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",SBS 6
+http://a1yan.worldhell.club:8880/ZYXLM5999/66156361/31496?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",SBS 6
+http://dragon.megatube.us:2082/1111122222/wr658gf449/7894?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",SBS 6 FHD
+http://a1yan.worldhell.club:8880/ZYXLM5999/66156361/31370?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Nederland",SBS 6 FHD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/269903?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",SBS 6 FHD
+http://iptvtree.net:8080/vpngenerators/635ee5a5e7/269903?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",SBS 6 HD
+http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/18485?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",SBS 6 HD
+http://dimapro.cz:8080/d4:cf:f9:0b:fd:73/ziajdjjfdifjd64646/18485?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",SBS 6 HD
+http://dimapro.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/18485?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",SBS 9
+http://dragon.megatube.us:2082/1111122222/wr658gf449/7895?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",SBS 9 FHD
+http://iptvtree.net:8080/vpngenerators/635ee5a5e7/854?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",SBS 9 FHD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/854?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",SBS 9 HD
+http://a1yan.worldhell.club:8880/ZYXLM5999/66156361/31369?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",SBS 9 HD
+http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/18484?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Nederland",SBS 9 HD
+http://dimapro.cz:8080/d4:cf:f9:0b:fd:73/ziajdjjfdifjd64646/18484?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",SBS 9 HD
+http://dimapro.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/18484?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NET 5
+http://a1yan.worldhell.club:8880/ZYXLM5999/66156361/31484?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NET 5 FHD
+http://iptvtree.net:8080/vpngenerators/635ee5a5e7/2477?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NET 5 FHD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2477?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NET 5 HD
+http://a1yan.worldhell.club:8880/ZYXLM5999/66156361/31398?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Nederland",NET 5 HD
+http://dimapro.cz:8080/d4:cf:f9:0b:fd:73/ziajdjjfdifjd64646/18513?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NET 5 HD
+http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/18513?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",NET 5 HD
+http://dimapro.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/18513?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",Net 5 FHD 1080
+http://a1yan.worldhell.club:8880/ZYXLM5999/66156361/31510?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",Disney XD / VERONICA HD
+http://iptvtree.net:8080/vpngenerators/635ee5a5e7/195838?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Nederland-Radio",Disney XD / VERONICA HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/195838?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="https://i.imgur.com/OTyX1vp.png" group-title="Undefined",Radio Veronica
+https://talparadiohls-i.akamaihd.net/hls/live/585615/VR-Veronica-1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="https://i.imgur.com/OTyX1vp.png" group-title="Undefined",Radio Veronica
+http://talparadiohls-i.akamaihd.net/hls/live/585615/VR-Veronica-1/Q2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Nederland",VERONICA HD
+http://dimapro.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/18473?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",VERONICA HD
+http://xtra.xcs521.cz:8080/2ZzP7TWR7P/PSyY3A4d3m/18473?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",VERONICA HD
+http://dimapro.cz:8080/d4:cf:f9:0b:fd:73/ziajdjjfdifjd64646/18473?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",Veronica / Disnery FHD
+http://iptvtree.net:8080/vpngenerators/635ee5a5e7/267378?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",Veronica / Disnery FHD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/267378?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",Veronica / Disney XD FHD
+http://iptvtree.net:8080/vpngenerators/635ee5a5e7/2499?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",Veronica / Disney XD FHD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/2499?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",Veronica Disney HD
+http://iptvtree.net:8080/vpngenerators/635ee5a5e7/266424?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",Veronica Disney HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/266424?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",Veronica DisneyXD
+http://dragon.megatube.us:2082/1111122222/wr658gf449/3559?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",Veronica HD
+http://iptvtree.net:8080/outputofflinechecker/9kyZXqC7MwVbkMnJmf/77642?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",Veronica XD
+http://a1yan.worldhell.club:8880/ZYXLM5999/66156361/31499?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Undefined",Veronica XD FHD
+http://a1yan.worldhell.club:8880/ZYXLM5999/66156361/31529?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",Radio Veronica
+http://talparadiohls-i.akamaihd.net/hls/live/585615/VR-Veronica-1/Q5.m3u8?checkedby:iptvcat.com
